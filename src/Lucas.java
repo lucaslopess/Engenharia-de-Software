@@ -2,8 +2,9 @@
 public class Lucas {
 
 	public static void main(String[] args) {
-		// TODO Stub de método gerado automaticamente
+		// TODO Stub de mï¿½todo gerado automaticamente
 		System.out.println("Lucas");
+		System.out.println("Gabriel");
 
 	}
 
